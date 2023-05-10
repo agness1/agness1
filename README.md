@@ -18,7 +18,5 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
 </p>
-<h3>Currently learning</h3>
-<img alt="firebase" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=React&logoColor=white" />
 <h3> :mailbox: How to reach me:</h3>
  <a href="agni.banaszek@gmail.com">agni.banaszek@gmail.com</a>
