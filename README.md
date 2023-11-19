@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="100"/>
 </div>
 <h1> Hi! :heart_eyes:</h1>
-<p>I'm Agnieszka, Front-end Developer (beginner) :v:</p>
+<p>I'm Agnieszka</p>
 <h3>Things I code with</h3>
 <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FFD528?style=flat-square&logo=JavaScript&logoColor=white" />
