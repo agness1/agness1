@@ -6,6 +6,7 @@
 <h3>Things I code with</h3>
 <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FFD528?style=flat-square&logo=JavaScript&logoColor=white" />
+    <img alt="PHP" src="https://img.shields.io/badge/-PHP-4D588E?style=flat-square&logo=PHP&logoColor=white" />
     <img alt="NextJs" src="https://img.shields.io/badge/next.js-000000?style=flat-squar&logo=nextdotjs&logoColor=white" />
     <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" />
    <img alt="CSS" src="https://img.shields.io/badge/-CSS-254BDD?style=flat-square&logo=CSS3&logoColor=white" />
